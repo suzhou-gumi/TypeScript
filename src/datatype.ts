@@ -15,7 +15,7 @@ console.log(tuple);
 // tuple[2];
 
 // 函数
-let add = (x: number, y: number): number => x + y;
+// let add = (x: number, y: number): number => x + y;
 let compute: (x: number, y: number) => number;
 compute = (a, b) => a + b;
 
